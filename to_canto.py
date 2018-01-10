@@ -3,7 +3,7 @@
 import numpy as np
 from time import sleep # So we don't request too much from the server
 from selenium import webdriver
-from selenium.webdriver.common import action_chains, keys # May not need?
+from selenium.webdriver.common import action_chains, keys
 
 
 '''
